@@ -27,3 +27,22 @@ Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Hilt, Fused Location Provider A
 
 ### No Network
 <img src="Network.png" width="50%">
+
+<br><br>
+
+See my other projects!
+<h5>
+  <a href="https://github.com/Tretiakk/Cap-Taxi-Demo">
+    Cap Taxi (Ride-Hailing App)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Above-Music-Demo">
+    Above Music (Offline Music Platform)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Anyalen-Demo">
+    Anyalen (Agency MVP)
+  </a>
+</h5>
