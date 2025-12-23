@@ -12,7 +12,7 @@
 **Tech Stack:** <br>
 Kotlin, Jetpack Compose, MVVM, Hilt, Retrofit, OpenWeather API, JUnit, Mockito, AnimatedVectorDrawable, Gradle KTS.
 
-<img src="weather_preview_2.png">
+<img src="weather_preview_2.png" width="70%">
 
 <img src="Main2.png" width="50%">
 
