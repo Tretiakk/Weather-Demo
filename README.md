@@ -14,7 +14,11 @@ Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Hilt, Retrofit, OpenWeather API
 
 <img src="weather_preview_2.png">
 
-Main Menu
+<br>
+Main Menu 
+<br>
 <img src="Main2.png" width="50%">
+<br>
 No Network
+<br>
 <img src="Network.png" width="50%">
