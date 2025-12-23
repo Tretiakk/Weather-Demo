@@ -13,6 +13,13 @@
 Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Hilt, Retrofit, OpenWeather API, JUnit, Mockito, AnimatedVectorDrawable, Gradle KTS.
 
 <br>
+
+<h3>
+  <a href="https://drive.google.com/file/d/1kXn8tYOpXMPeM07rV5XHCrY8YraSgJPQ/view?usp=sharing">
+    Download (Only for Android)
+  </a>
+</h3>
+
 <br>
 
 ### Main Menu 
