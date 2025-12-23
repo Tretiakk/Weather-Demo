@@ -12,6 +12,9 @@
 **Tech Stack:** <br>
 Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Hilt, Retrofit, OpenWeather API, JUnit, Mockito, AnimatedVectorDrawable, Gradle KTS.
 
+<br>
+<br>
+
 ### Main Menu 
 <img src="Main2.png" width="50%">
 
